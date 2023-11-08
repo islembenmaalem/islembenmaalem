@@ -17,7 +17,7 @@ I'm open for intern roles in Data Science or Data Engineering
 <br>
 <p align="center" >
 
-  - Check [my portfolio](https://islembenmaalem.netlify.app/).
+  - Check [my portfolio](https://gh-pages--islembenmaalem.netlify.app/).
 
  </p>
 <br>
