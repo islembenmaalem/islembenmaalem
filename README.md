@@ -11,9 +11,15 @@ I'm in a a final year data engineering student.
 
 <p align="center" >
 I'm open for intern roles in Data Science or Data Engineering
-  Check my portfolio [link](https://islembenmaalem.netlify.app/).
+
 
   </p>
+<br>
+<p align="center" >
+
+  - Check [my portfolio](https://islembenmaalem.netlify.app/).
+
+ </p>
 <br>
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islembenmaalem&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islembenmaalem&layout=compact&theme=radical) |
@@ -88,18 +94,4 @@ I'm open for intern roles in Data Science or Data Engineering
 <div align="center">
 <img src="image/the-end.gif" width = "100%">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
