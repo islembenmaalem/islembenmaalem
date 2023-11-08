@@ -11,6 +11,8 @@ I'm in a a final year data engineering student.
 
 <p align="center" >
 I'm open for intern roles in Data Science or Data Engineering
+  Check my portfolio [link](https://islembenmaalem.netlify.app/).
+
   </p>
 <br>
 
